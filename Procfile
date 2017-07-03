@@ -1,0 +1,1 @@
+web: gunicorn UsuariosReact.wsgi  

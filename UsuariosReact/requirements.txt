@@ -1,0 +1,15 @@
+dj-database-url==0.4.2
+Django==1.8.18
+django-crispy-forms==1.4.0
+django-durationfield==0.5.1
+djangorestframework==3.6.3
+gunicorn==19.7.1
+olefile==0.44
+Pillow==4.2.0
+pkg-resources==0.0.0
+psycopg2==2.7.1
+python-dateutil==2.4.2
+pytz==2017.2
+six==1.10.0
+unicodecsv==0.13.0
+whitenoise==3.3.0
